@@ -1,7 +1,7 @@
 # Console Calculator
 
 <h2>Description</h2>
-This is a very basic console application that allows the user to select 2 numbers and add,subtract,multiply, or divide them. 
+This is a very basic console application that allows the user to select 2 numbers and add, subtract, multiply, or divide them. 
 
 
 <br />
